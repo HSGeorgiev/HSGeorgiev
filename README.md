@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HSGeorgiev
-- 👀 I’m interested in .NET/c#/NUnit, JS/NodeJS/QUnit, QAAutomation/Playwright/Appium
-- 🌱 I’m currently learning QA Automation QAAutomation/Playwright/Appium
+- 👀 I’m interested in .NET/C#/NUnit, JS/NodeJS/QUnit, QAAutomation/Selenium/Playwright/Appium
+- 🌱 I’m currently learning QA Automation QAAutomation/Playwright/Selenium/Appium
 - 💞️ I’m looking to collaborate on developing testin frameworks for open source projects
 - 📫 How to reach me: HSGeorgiev@gmail.com
 
